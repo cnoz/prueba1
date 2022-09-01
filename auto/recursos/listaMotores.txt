@@ -1,0 +1,5 @@
+m1|Zetec|nafta|2.0|220hp|280Nm
+m2|hemi|nafta|5.8|700hp|900Nm
+m3|ecotec|nafta|3.5|330cv|300Nm
+m5|k7m|nafta|1.6|85cb|120Nm
+m6|fire|naftt|1.4|90cv|150Nm
